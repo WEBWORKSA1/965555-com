@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://965555.com/sitemap.xml
